@@ -1,4 +1,4 @@
-package com.sc.demo.demo_wrapper;
+package com.sc.demo.demo_装饰器;
 
 /**
  * 这是一个英雄类，里面的每个英雄为一个方法，方法里面说一句话，我是xxx

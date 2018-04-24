@@ -1,4 +1,4 @@
-package com.sc.demo.demo_wrapper;
+package com.sc.demo.demo_装饰器;
 
 /**
  * 这是一个包装类，用来包装Hero，输出自己的武器名

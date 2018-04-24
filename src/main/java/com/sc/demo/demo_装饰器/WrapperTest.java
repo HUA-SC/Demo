@@ -1,4 +1,4 @@
-package com.sc.demo.demo_wrapper;
+package com.sc.demo.demo_装饰器;
 
 
 /**
